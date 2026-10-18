@@ -13,7 +13,7 @@ A web developer from Colombia, passionate about building functional and engaging
 
 ## 📌 Featured Projects
 
-🚀 **[My Web Portfolio](https://github.com/IanMateoChavesBarrera)** - Personal website to showcase my profile, skills, and projects.
+- 🚀 **[My Web Portfolio](https://ianmateochavesbarrera.github.io/my-portfolio/)** - Personal website to showcase my profile, skills, and projects.
 - ⚙️ *More projects coming soon...*
 
 ---
