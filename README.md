@@ -1,7 +1,6 @@
 # Hi there! I'm Ian Mateo Chaves Barrera 👋
 
-A web developer passionate about building functional and engaging web applications. I love learning new technologies and applying software development best practices.
-
+A web developer from Colombia, passionate about building functional and engaging web applications. I love learning new technologies and applying software development best practices.
 ---
 
 ## 🛠️ Tech Stack & Tools
